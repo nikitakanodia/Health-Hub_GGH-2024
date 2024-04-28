@@ -7,10 +7,10 @@ The healthcare recommendation system aims to provide personalized guidance by le
 ## Installation and Setup
 
 ### 1. Clone the repository:
-    git clone https://github.com/username/healthcare-recommendation-system.git
+    git clone https://github.com/nikitakanodia/Health-Hub_GGH-2024.git
 
 ### 2. Navigate to the project directory:
-    cd healthcare-recommendation-system
+    cd Health-Hub_GGH-2024
 
 ### 3. Create a new virtual environment and activate it:
     python -m venv env
